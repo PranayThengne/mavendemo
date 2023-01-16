@@ -5,5 +5,6 @@ private static String name="Thengne";
 		System.out.println("hi pranay");
 		System.out.println("We have solved our bug");
 		System.out.println("hi"+name);
+		System.out.println("Bug is solved fine");
 	}
 }
