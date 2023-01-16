@@ -7,5 +7,6 @@ private static String name="Thengne";
 		System.out.println("hi"+name);
 		System.out.println("Bug is solved fine");
 		System.out.println("second method working problem is doing here");
+	System.out.println("im doing from my side");
 	}
 }
